@@ -130,7 +130,7 @@ body{
 }
 
 .bg{
-  background-image: url("./bg1.png");
+  background-image: url("./pic-bg1.jpeg");
       background-size: cover;
       background-repeat: no-repeat;
       background-size: 100% 100%;
@@ -191,7 +191,7 @@ a {
     }
     
     .bgimage {
-      background-image: url("./bg1.png");
+      background-image: url("./pic-bg1.jpeg");
       background-size: cover;
       background-repeat: no-repeat;
       background-size: 100% 100%;
@@ -391,4 +391,7 @@ a {
 }
 .tab{
   margin-left: 100;
+}
+.head1{
+  color: rgb(46, 198, 203);
 }

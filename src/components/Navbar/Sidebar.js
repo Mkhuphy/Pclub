@@ -61,7 +61,7 @@ const Leftbar = (props) => {
           <ul className="space-y-2 mt-6">
           <li>
               <a
-                onClick={dash}
+                href="/Dashboard"
                 className="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
               >
                 <svg
