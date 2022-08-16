@@ -177,3 +177,18 @@
 .bacolor{
   background-color: rgb(153, 193, 223);
 }
+
+.margin2{
+  padding: 20px;
+  background-color: aliceblue;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-image: url(./pages/pic-bg1.jpeg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: rgb(19, 2, 10);
+  font-weight: bolder;
+  margin-bottom: 25px;
+}
